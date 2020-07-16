@@ -4,17 +4,14 @@
 
 ### Hi 👋 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 ```python
 class Pratik:
   def myskills():
-    print('Python, C++, Web Development(Plotly-Dash), AWS, Machine Learning, Deep Learning, Data Science')
+    print('Python, C++, PyTorch, Web Development(Plotly-Dash), AWS, Machine Learning, Deep Learning, Data Science')
   
   def interests():
-    print('Football, Photography and Designing')
+    print('⚽ Football, 📸 Photography and 🎨 Designing')
   
   def projects():
     print('Data Science, Deep Learning, Machine Learning and algorithms based projects') 
@@ -23,7 +20,7 @@ class Pratik:
     print('I love football, but I am not crazy about Messi/Ronaldo')
   
   def current_status():
-    print('Looking for Job/Project/Collaborations')
+    print('Looking for Job/Project/Collaborations\nCurrently learning Computer Vision using PyTorch')
     
   def contact():
     print('pr2tik1@gmail.com')
