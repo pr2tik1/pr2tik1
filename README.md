@@ -1,6 +1,6 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/pratik-2.jpg">
 
-### Hi 👋 [![HitCount](http://hits.dwyl.com/pr2tik1/pr2tik1.svg)](http://hits.dwyl.com/pr2tik1/pr2tik1)
+### Hi 👋 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
