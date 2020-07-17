@@ -25,4 +25,4 @@ class Pratik:
   def contact():
     print('pr2tik1@gmail.com')
 ```
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&hide=["stars","issues"]) 
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&hide=["stars","issues"]) <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150">
