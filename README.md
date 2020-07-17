@@ -7,22 +7,34 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ```python
 class Pratik:
-  def myskills():
-    print('Python, C++, PyTorch, Web Development(Plotly-Dash), AWS, Machine Learning, Deep Learning, Data Science')
+  def tech_stack():
+    #My technical skills 
+    print('Python, C++, PyTorch, Web Development(Plotly-Dash),\
+           AWS, Machine Learning, Deep Learning, Data Science')
   
   def interests():
+    #My interests
     print('⚽ Football, 📸 Photography and 🎨 Designing')
   
-  def projects():
-    print('Data Science, Deep Learning, Machine Learning and algorithms based projects') 
+  def projects(var):
+    #My projects and fields I am working upon
+    if var == 'past':
+        print('Data Science, Deep Learning, Machine Learning and algorithms based projects')
+    if var == 'current':
+        print('Exploring Image Classification and Deep Learning algorithms using PyTorch') 
   
   def fun_fact():
-    print('I love football, but I am not crazy about Messi/Ronaldo')
+    print('I love to play football, but I am not crazy about Messi/Ronaldo, \
+           instead I am fan of Ramos(cuz I am)')
   
   def current_status():
-    print('Looking for Job/Project/Collaborations\nCurrently learning Computer Vision using PyTorch')
-    
+    #About my current work status
+    print('Looking for Job / Project / Collaborations \n\
+           Currently learning Computer Vision using PyTorch')
+  
   def contact():
+    #You can contact me by following
     print('pr2tik1@gmail.com')
+    print('LinkedIn: pratik-kumar04')
 ```
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&hide=["stars","issues"]) <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
