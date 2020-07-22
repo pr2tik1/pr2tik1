@@ -13,7 +13,7 @@ I am Pratik! I am working on projects related to data science and deep learning.
 </p>
 
 
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=30) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.3&theme=radical) 
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=32) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.25&theme=radical) 
 
 **Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!** 
 
