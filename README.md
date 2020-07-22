@@ -8,12 +8,12 @@ I am Pratik! I am working on projects related to data science and deep learning.
 - 🤝 Looking for collaborations in deep learning, analytics and data science.
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.4&theme=radical) 
-
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="200"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="200"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="200"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="200"/>
 </p>
 
+
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=30) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.3&theme=radical) 
 
 **Show ❤️ by starring repositories you find good. Also, star and fork this repo if you like to give new feature a try!** 
 
