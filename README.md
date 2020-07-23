@@ -9,8 +9,8 @@ I am Pratik! I am working on projects related to data science and deep learning.
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=30">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=CSS,HTML&theme=radical">
 </p>
 
 
