@@ -13,3 +13,5 @@ I am Pratik! I am a developer who is passionate about stuff like deep learning a
   <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,html&theme=tokyonight">
 </p>
+
+#### ⭐ Star and Fork this repo to try new feature!
