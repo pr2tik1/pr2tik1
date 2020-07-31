@@ -17,5 +17,4 @@ I am Pratik! I am a developer who is passionate about stuff like deep learning a
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 #### ⭐ Star and Fork this repo to try new feature!
