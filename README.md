@@ -68,4 +68,4 @@ No Activity tracked this Week
 
 ---
 
-⭐ Star and Fork this repo to try new feature! *For waka readme stats follow [here](https://github.com/anmol098/waka-readme-stats)*
+⭐ *Star and Fork this repo to try new feature!* 
