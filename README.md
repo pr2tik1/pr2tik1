@@ -46,8 +46,9 @@ Sunday       75 commits     ████░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This week I spent my time on** 
+<details>
+  
+<summary> 📊 **This week I spent my time on** </summary>
 
 ```text
 ⌚︎ Timezone: Asia/Kolkata
@@ -62,7 +63,7 @@ No Activity tracked this Week
 No Activity tracked this Week
 
 ```
-
+</details>
 
 <!--END_SECTION:waka-->
 
