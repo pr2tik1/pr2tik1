@@ -45,26 +45,6 @@ Saturday     70 commits     ████░░░░░░░░░░░░░�
 Sunday       75 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.66%
 
 ```
-
-<details>
-  
-<summary> 📊 **This week I spent my time on** </summary>
-
-```text
-⌚︎ Timezone: Asia/Kolkata
-
-💬 Languages: 
-No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
-No Activity tracked this Week
-
-```
-</details>
-
 <!--END_SECTION:waka-->
 
 ---
