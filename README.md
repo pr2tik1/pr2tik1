@@ -20,7 +20,9 @@ To connect with me,
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,html&theme=tokyonight">
 </p>
 
-
+<details>
+<summary> My programming Stats </summary>
+  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1127-blue)
 
@@ -71,5 +73,7 @@ Linux                    2 hrs 8 mins        ███████████�
 <!--END_SECTION:waka-->
 
 ---
+
+</details>
 
 ⭐ *Star and Fork this repo to try new feature!* 
