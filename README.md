@@ -1,9 +1,10 @@
+## Hi 👋 I am Pratik!
+I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, C++, Plotly-Dash, PyTorch, and  AWS. I play football and design in photoshop. Also, I have just started tech-blogging! 
 
-### Hi 👋 
-I am Pratik! I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, C++, PyTorch, and  Flask. Also, I have just started tech-blogging! 
-
-- 👨🏽‍💻 Current work in deep learning.
+- 👨🏽‍💻 Currently working in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
+- 😊 Willing to contribute in opensource projects.
+- 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 
 To connect with me,
