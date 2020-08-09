@@ -75,4 +75,6 @@ Linux                    2 hrs 8 mins        ███████████�
 
 ---
 
-## ⭐ *Star and Fork this repo to try new feature!* 
+<p align = "center">
+  <b>⭐Star and Fork this repo to try new feature! (Check Wiki for stats card details)</b>
+</p>
