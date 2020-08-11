@@ -43,6 +43,9 @@ My Tech Stack :<p align = "center">
 
 ---
 
+<details> 
+ <summary>My Programmin Stats: </summary>
+
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
 
@@ -89,6 +92,7 @@ Python                   1 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+</details>
 
 <p align = "center">
   <b>⭐Star and Fork this repo to try new feature! (Check Wiki for stats card details)</b>
