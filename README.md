@@ -44,7 +44,7 @@ My Tech Stack :<p align = "center">
 ---
 
 <details> 
- <summary>My Programmin Stats: </summary>
+ <summary>My programming stats: </summary>
 
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
