@@ -36,7 +36,7 @@ To connect with me,
 
 
 <details> 
- <summary><b>My programming stats</b>: </summary>
+ <summary><b>My programming stats(Click to expand)</b>: </summary>
 
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
@@ -85,5 +85,3 @@ Python                   1 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
-
-<b>*⭐Star and Fork this repo to try new feature! (Check Wiki for stats card details)*</b>
