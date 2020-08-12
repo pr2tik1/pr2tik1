@@ -7,7 +7,8 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 
-🤝 To connect with me,
+<details open>
+<summary>🤝 <b>To connect with me<b></summary>
 
 <p align = "center">
 
@@ -20,8 +21,12 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 </p>
 
+</details>
+
 ---
-😇 <b>My Github Stats</b>: 
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
 
@@ -30,10 +35,14 @@ I am a developer who is passionate about stuff like deep learning and data scien
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,html&theme=tokyonight">
 </p>
 
-💻 <b>My Tech Stack</b> :
+</design>
+
+<details open>
+<summary>💻 <b>My Tech Stack</b> :</summary>
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
 
+</details>
 
 <details> 
  <summary>🤖 <b>My programming stats(Click to expand)</b>: </summary>
