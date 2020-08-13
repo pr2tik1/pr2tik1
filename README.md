@@ -17,7 +17,9 @@ I am a developer who is passionate about stuff like deep learning and data scien
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
- ![](https://img.shields.io/github/followers/pr2tik1?style=for-the-badge&logo=appveyor)
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/pr2tik1)
+[![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)](https://badges.pufler.dev)
+![Repos Badge](https://badges.pufler.dev/gists/pr2tik1?style=for-the-badge&color=black)
 
 </p>
 
