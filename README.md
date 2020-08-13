@@ -19,7 +19,6 @@ I am a developer who is passionate about stuff like deep learning and data scien
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
 [![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/pr2tik1)
 [![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)](https://badges.pufler.dev)
-![Repos Badge](https://badges.pufler.dev/gists/pr2tik1?style=for-the-badge&color=black)
 
 </p>
 
