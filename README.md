@@ -99,7 +99,7 @@ Python                   1 repos             ██░░░░░░░░░�
 <details open> 
  <summary>Featured Repos </summary>
 <p align = "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=tokyonight" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1.github.io&theme=tokyonight" /> </p>
+<a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=bear" /></a> <a href = "https://github.com/pr2tik1/pr2tik1.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1.github.io&theme=bear" /></a> </p>
 
 </details>
  
