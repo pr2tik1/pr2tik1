@@ -1,11 +1,11 @@
 ## Hi 👋 I am Pratik! 
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, C++, Plotly-Dash, PyTorch, and  AWS. I play football and design in photoshop. Also, I have just started tech-blogging! 
+I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 
-- 👨🏽‍💻 Currently working in deep learning, competitive coding, data structures and algorithms.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 
 <details open>
@@ -47,9 +47,12 @@ I am a developer who is passionate about stuff like deep learning and data scien
 </details>
 
 <details> 
- <summary>🤖 <b>My programming stats(Click to expand)</b>: </summary>
+ <summary>🤖 <b>My programming stats</b>: </summary>
+
+<br>
 
 <!--START_SECTION:waka-->
+
 **I'm a night 🦉** 
 
 ```text
@@ -102,4 +105,3 @@ Python                   1 repos             ██░░░░░░░░░�
 <a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=bear" /></a> <a href = "https://github.com/pr2tik1/pr2tik1.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1.github.io&theme=bear" /></a> </p>
 
 </details>
- 
