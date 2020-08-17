@@ -47,7 +47,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 </details>
 
-<details> 
+<details open> 
  <summary>🤖 <b>My programming stats</b>: </summary>
 
 <br>
