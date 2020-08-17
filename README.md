@@ -35,7 +35,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
 </p>
 
 </design>
@@ -47,7 +47,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 </details>
 
-<details open> 
+<details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
 
 <br>
