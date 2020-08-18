@@ -9,8 +9,17 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 
+<b>Tech Stack</b>
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" /> <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+
+
+<br>
+<br>
+<br>
+
 <details open>
-<summary>🤝 <b>To connect with me<b></summary>
+<summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
 
@@ -38,14 +47,8 @@ I am a developer who is passionate about stuff like deep learning and data scien
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
 </p>
 
-</design>
-
-<details>
-<summary>💻 <b>My Tech Stack</b> :</summary>
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
-
 </details>
+
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
@@ -101,7 +104,7 @@ Python                   1 repos             ██░░░░░░░░░�
 
 
 <details open> 
- <summary>Featured Repos </summary>
+ <summary><b>Featured Repos</b></summary>
 <p align = "center">
 <a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=bear" /></a> <a href = "https://github.com/pr2tik1/pr2tik1.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1.github.io&theme=bear" /></a> </p>
 
