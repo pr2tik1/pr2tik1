@@ -8,7 +8,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-<img align="right" width="150px" src="./assets/pk.jpeg" />
+<img align="right" width="150px" src="https://github.com/pr2tik1/pr2tik1/blob/master/assets/pk.jpeg" />
 
 <b>Tech Stack</b>
 
