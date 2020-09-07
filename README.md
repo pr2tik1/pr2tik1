@@ -45,11 +45,11 @@ I am a developer who is passionate about stuff like deep learning and data scien
 <details open> 
  <summary><b>Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0"></a>
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1" alt="Recent Article 1">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1" alt="Recent Article 1"></a>
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2" alt="Recent Article 2">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2" alt="Recent Article 2"></a>
 
 </details>
 
