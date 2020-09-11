@@ -8,7 +8,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- My personal [blog site](https://pr2tik1.github.io/blog/pytorch/cnn/pca/t-sne/2020/09/08/Sketch-Recognition.html)
+- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
