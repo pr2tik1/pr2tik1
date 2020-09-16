@@ -10,7 +10,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
 
-<details open>
+<details>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
