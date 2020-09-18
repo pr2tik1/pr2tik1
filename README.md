@@ -26,7 +26,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 </details>
 
 
-<details>
+<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
