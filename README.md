@@ -90,7 +90,7 @@ JavaScript               1 repos             █░░░░░░░░░░�
 </details>
 
 
-<details> 
+<details open> 
 
 <summary><b>📑 My latest Medium articles</b>:</summary>
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0"></a>
