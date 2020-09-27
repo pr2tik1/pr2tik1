@@ -5,7 +5,6 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
