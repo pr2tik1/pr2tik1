@@ -40,9 +40,9 @@ To know more about me:
 Monday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
 Tuesday      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
 Wednesday    74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+Thursday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
 Friday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Saturday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
 Sunday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.29%
 
 ```
