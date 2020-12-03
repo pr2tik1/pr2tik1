@@ -16,6 +16,11 @@ I am a developer who is passionate about stuff like deep learning and data scien
   <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
 </p>
+ 
+ <br>
+<p align = "center"><img src="https://wakatime.com/share/@pr2tik1/8332ae94-9ac8-47ed-9d19-2907324fd8b7.svg" alt="Wakatime report" height="300" />
+<img src="https://wakatime.com/share/@pr2tik1/706a719b-6843-40f9-b397-151faf9ade2d.svg" alt="Wakatime report" height="300" /></p>  
+
 </details>
 
 <details> 
