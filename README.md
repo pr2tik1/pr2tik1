@@ -9,15 +9,6 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
 
 ---
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=radical">
-</p>
-
-</details>
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
@@ -70,3 +61,22 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
+
+<details open> 
+
+ <summary><b>📑 My latest Medium articles</b>:</summary>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/4" alt="Recent Article 2"></a>
+</details>
+
