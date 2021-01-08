@@ -1,11 +1,4 @@
-<p align="right">
-	<a href="https://www.twitter.com/Pratikpkb">
-        	<img alt="twitter" src="https://i.imgur.com/fFlVB1c.png" height=50>
-	</a>
-	<a href="https://www.linkedin.com/in/pratikkumar04">
-        	<img alt="linkedin" src="https://i.imgur.com/wcvwfoZ.png" height=50>
-	</a>
-</p>
+<a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Pratik! 
 I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
@@ -95,12 +88,5 @@ C                        1 repo              █░░░░░░░░░░�
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium
-<p align="right">
-	<a href="https://www.twitter.com/Pratikpkb">
-        	<img alt="twitter" src="https://i.imgur.com/fFlVB1c.png" height=50>
-	</a>
-	<a href="https://www.linkedin.com/in/pratikkumar04">
-        	<img alt="linkedin" src="https://i.imgur.com/wcvwfoZ.png" height=50>
-	</a>
-</p>/@pr2tik1/4" alt="Recent Article 2"></a>
+
 </details>
