@@ -80,7 +80,9 @@ C                        1 repo              █░░░░░░░░░░�
 
 ## 📑 Check my blogs 
 
-<details> 
+<details open> 
+ <summary> 😇 <b>Medium Published articles</b>: </summary>
+<br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2" alt="Recent Article 2"></a>
@@ -89,6 +91,12 @@ C                        1 repo              █░░░░░░░░░░�
 
 ---
 
-## Check my YouTube Channel 
+## 🎥 Check my YouTube Channel 
 
 [Channel Introduction Video](https://www.youtube.com/watch?v=nyx4gNwo9-E)
+
+---
+
+<p align = "center">
+ <b>Show some love by starring and supporting my projects!</b>
+</p>
