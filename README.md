@@ -11,7 +11,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 ---
 
-## 💻 Some stats
+## 📊 Some stats
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -78,10 +78,9 @@ C                        1 repo              █░░░░░░░░░░�
 
 ---
 
-## Check my blogs
+## 📑 Check my blogs 
 
 <details> 
- <summary><b>📑 My latest Medium articles</b>:</summary>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2" alt="Recent Article 2"></a>
@@ -89,3 +88,7 @@ C                        1 repo              █░░░░░░░░░░�
 </details>
 
 ---
+
+## Check my YouTube Channel 
+
+[Channel Introduction Video](https://www.youtube.com/watch?v=nyx4gNwo9-E)
