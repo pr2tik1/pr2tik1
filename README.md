@@ -80,7 +80,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ## 📑 Check my blogs 
 
-<details open> 
+<details> 
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
@@ -98,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ---
 
 <p align = "center">
- <b>Show some love by starring and supporting my projects!</b>
+ <b>Show some love by starring and supporting my projects ❤️❤️❤️ </b>
 </p>
