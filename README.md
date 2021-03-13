@@ -86,3 +86,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 </details>
 
 ---
+
+***To get yours follow: https://github.com/pr2tik1/pr2tik1/wiki***
