@@ -2,7 +2,7 @@
 # Hi 👋 I am Pratik! 
 I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
 
-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://pratik-kumar.netlify.app/) for more information and to get in touch.
 - ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content.
 
 ---
