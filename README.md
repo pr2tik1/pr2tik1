@@ -11,18 +11,8 @@ Alternate id - [@pkelucidata](https://github.com/pkelucidata)
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,materialui,django,flask,fastapi,nodejs,sklearn,pytorch,aws,docker,terraform,githubactions,jest,cypress" />
 </p>
 
-
 ### ✍️ Writing & Blogs  
 📚 Featured on: [Substack](https://pratikkumar.substack.com) · [GitHub Blog](https://pr2tik1.github.io) · [Towards AI](https://towardsai.net/author/pratik-kumar)
-
-**Popular Reads:**  
-- [Intro to CNNs — Without MNIST](https://towardsai.net/p/introduction-to-cnns-without-using-mnist)  
-- [Developer Trends Analysis](https://towardsai.net/p/developer-trends)  
-- [Exploring Neural Nets (Part I)](https://towardsai.net/p/exploring-neural-networks-part1)  
-- [GitHub README as Resume](https://towardsdatascience.com/github-readme-as-resume)  
-- [Kaplan-Meier Estimator](https://towardsdatascience.com/kaplan-meier-estimator)  
-- [Regression in Data Science](https://towardsdatascience.com/data-science-approach-to-regression)
-
 
 ### 🤝 Connect with Me  
 [🌐 Portfolio](https://pratik-kumar.netlify.app) · [💼 LinkedIn](https://linkedin.com/in/pratik-kumar04) · [🧑‍💻 GitHub](https://github.com/pr2tik1) · [📝 Substack](https://pratikkumar.substack.com) · 📧 **pr2tik1@gmail.com**
