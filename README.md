@@ -7,10 +7,6 @@ Alternate id - [@pkelucidata](https://github.com/pkelucidata)
 
 ### ⚡ Tech Snapshot
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,materialui,django,flask,fastapi,nodejs,sklearn,pytorch,aws,docker,terraform,githubactions,jest,cypress" />
-</p>
-
 ```mermaid
 mindmap
   root((Skills))
