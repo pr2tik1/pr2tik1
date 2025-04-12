@@ -11,6 +11,69 @@ Alternate id - [@pkelucidata](https://github.com/pkelucidata)
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,materialui,django,flask,fastapi,nodejs,sklearn,pytorch,aws,docker,terraform,githubactions,jest,cypress" />
 </p>
 
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      R
+      SQL
+      Bash
+      PowerShell
+    ((Frameworks))
+      React
+      Flask
+      Django
+      FastAPI
+      Express
+      Electron
+      Next.js
+      Dash
+      R-Shiny
+      Streamlit
+      Pydantic
+      SQLAlchemy
+    ((UI))
+      Material-UI
+      Tailwind
+      Shadcn-UI
+      Ant Design
+      Bootstrap
+    ((AI/ML))
+      PyTorch
+      TensorFlow
+      Plotly
+      D3.js
+      Pandas
+      NumPy
+      Matplotlib
+      Seaborn
+      Scikit-Learn
+      Langchain
+    ((DevOps))
+      Git
+      Docker
+      CircleCI
+      GitHub Actions
+    ((Cloud))
+      AWS
+        S3
+        Lambda
+        SageMaker
+        SageMaker-Studio
+        Batch
+        ECR
+        Fargate
+        EC2
+        Workspaces
+        Neptune
+        ECS
+        Load Balancer
+      Terraform
+```
+
 ### ✍️ Writing & Blogs  
 📚 Featured on: [Substack](https://pratikkumar.substack.com) · [GitHub Blog](https://pr2tik1.github.io) · [Towards AI](https://towardsai.net/author/pratik-kumar)
 
